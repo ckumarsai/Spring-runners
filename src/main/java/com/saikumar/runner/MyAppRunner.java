@@ -11,9 +11,7 @@ public class MyAppRunner implements ApplicationRunner {
 	public void run(ApplicationArguments args) throws Exception {
 		// TODO Auto-generated method stub
 		System.out.println("MyAppRunner method");
-		System.out.println("Hello");
-		System.out.println("Hi chinna good morning");
-		
+			
 		
 	}
 
