@@ -12,6 +12,8 @@ public class MyAppRunner implements ApplicationRunner {
 		// TODO Auto-generated method stub
 		System.out.println("MyAppRunner method");
 		System.out.println("Hello");
+		System.out.println("Hi chinna good morning");
+		
 		
 	}
 
